@@ -1,0 +1,242 @@
+Open Architecture Specification: 600 TPD Coal Combustion Residual (CCR) Refining, Critical Mineral Extraction, Commercial Geocrete Manufacturing, and Flowable Mine Remediation
+Principal Investigator & Systems Architect: Steve Campbell (KL8T)
+Classification: Open Civil & Environmental Engineering Specification
+License: CERN-OHL-S / Creative Commons Attribution 4.0 International (CC-BY 4.0)
+Target Entities: DOE FECM, EPA Region 3, State DEP / DMR, American Electric Power (AEP), Mine Holding Entities, Commercial Infrastructure Contractors
+
+                       [ RAW FEEDSTOCK: 600 TPD COAL ASH ]
+                     (Little Broad Run Impoundment / Landfill)
+                                        │
+                                        ▼
+             ┌─────────────────────────────────────────────────────┐
+             │       HYDROMETALLURGICAL EXTRACTION FACILITY        │
+             │           (Recycled Acid Leaching Loop)             │
+             └──────────────────────────┬──────────────────────────┘
+                                        │
+                 ┌──────────────────────┴──────────────────────┐
+                 │                                             │
+                 ▼                                             ▼
+     [ CRITICAL MINERAL ASSETS ]                     [ TAILINGS FRACTION ]
+     • Vanadium (V₂O₅ Electrolyte)                   De-mineralized Alumino-Silicate
+     • Heavy REE Concentrates                        Bulk Solids (~550 TPD)
+       (Nd, Dy, Y, Sc)                                         │
+                                        ┌──────────────────────┴──────────────────────┐
+                                        │                                             │
+                                        ▼ (High-Alkali Activator)                     ▼ (Low-Alkali Slurry)
+                         ┌─────────────────────────────┐               ┌─────────────────────────────┐
+                         │  COMMERCIAL GEOCRETE PLANT  │               │   MINE REMEDIATION CIRCUIT  │
+                         │   (Independent Business)    │               │    (The Relief Valve)       │
+                         └──────────────┬──────────────┘               └──────────────┬──────────────┘
+                                        │                                             │
+                         ┌──────────────┴──────────────┐                              ▼
+                         │                             │                 Pumped to Abandoned Voids
+                         ▼                             ▼                 (Big River Mine Complex)
+                 6,000 PSI Pavers              Precast Utilidors                      │
+                 & Interlocking Blocks         & DOT Aggregate           • Jackets Decaying Coal Pillars
+                 (Commercial Market)           (Infrastructure)          • Halts Acid Mine Drainage (AMD)
+                 
+                 
+1. Upstream Raw Material Logistics & Throughput
+1.1 Feedstock Sourcing & Mass Balance
+Primary Resource: Coal Combustion Residuals (CCR) from active utility dry-storage landfills and legacy wet impoundments (e.g., Little Broad Run Landfill, Ohio River Corridor).
+Daily Design Throughput: 600 tons per day (TPD) nominal raw dry ash equivalent.
+Logistics Routing (The Downhill Production Loop):
+Haul trucks load raw CCR at the ridge landfill face.
+Payloads move downhill via existing private access roads to the valley-floor processing circuit, using gravity to reduce diesel consumption and transmission wear.
+Empty haulers return uphill with zero payload, preserving fast cycle times and eliminating surface-liner puncture risks on the active landfill cap.
+1.2 Multi-Element Chemical Leaching
+Extraction Media: Recycled dilute organic/mineral acid loops (e.g., picolinic acid, sulfuric acid recovery circuits).
+Critical Mineral Stream 1: Vanadium (
+𝑉
+2
+𝑂
+5
+V 
+2
+​
+ O 
+5
+​
+ ): Leached and precipitated into high-purity Vanadium Pentoxide, converted to 
+2.0
+ 
+M
+2.0M aqueous electrolyte for regional grid storage or downstream EPCS facilities.
+Critical Mineral Stream 2: Heavy Rare Earth Elements (HREEs): Multi-stage solvent extraction concentrates high-value defense-critical elements:
+Neodymium (
+𝑁
+𝑑
+Nd) & Dysprosium (
+𝐷
+𝑦
+Dy): Essential permanent-magnet materials for EV motors and wind turbines.
+Scandium (
+𝑆
+𝑐
+Sc) & Yttrium (
+𝑌
+Y): High-strength aerospace alloys and solid-oxide fuel cell electrolytes.
+Mass Yield: Mineral extraction strips 
+<
+5
+%
+<5% of total ash mass, leaving approximately 550 to 570 TPD of clean, highly reactive alumino-silicate mineral tailings.
+2. Independent Commercial Geocrete Manufacturing
+The bulk mineral tailings are not a waste liability; they are an ultra-pure, de-mineralized pozzolanic precursor.
+
+2.1 Matrix Chemistry & Curing Performance
+Tailings Precursor: 70–75% processed silica-alumina matrix by weight.
+Alkali Activator Solution: 25–30% aqueous Sodium Hydroxide (
+𝑁
+𝑎
+𝑂
+𝐻
+NaOH) and Sodium Silicate (
+𝑁
+𝑎
+2
+𝑆
+𝑖
+𝑂
+3
+Na 
+2
+​
+ SiO 
+3
+​
+ ), engineered to a modulus ratio (
+𝑀
+𝑠
+=
+SiO
+2
+/
+Na
+2
+O
+M 
+s
+​
+ =SiO 
+2
+​
+ /Na 
+2
+​
+ O) of 
+1.2
+ to 
+1.4
+1.2 to 1.4.
+Structural Compressive Strength:
+28-Day Standard Ambient Cure: 
+6
+,
+000
+ 
+PSI
+6,000PSI.
+48-Hour Accelerated Thermal Cure (
+6
+0
+∘
+C
+60 
+∘
+ C utilizing industrial waste heat): 
+>
+4
+,
+500
+ 
+PSI
+>4,500PSI.
+Environmental Leaching Resistance: The geopolymerization process forms a dense 3D amorphous alumino-silicate framework that chemically encapsulates any residual heavy trace metals, exceeding EPA TCLP (Toxicity Characteristic Leaching Procedure) standards for non-hazardous commercial structural products.
+2.2 Commercial Product Portfolio & Standalone Economics
+At 550+ TPD of tailings throughput, the facility produces approximately 
+250
+ to 
+300
+ cubic yards
+250 to 300 cubic yards of structural Geocrete daily.
+
+
++─────────────────────────────────────────────────────────────────────────────────────────────+
+|                             INDEPENDENT ANNUAL GEOCRETE BALANCE SHEET                       |
++─────────────────────────────────────────────────────────────────────────────────────────────+
+| Annual Production: ~90,000 cubic yards equivalent (Pavers, Blocks, Utilidors, Aggregates)   |
+|                                                                                             |
+| GROSS REVENUE:                                                                              |
+| • Precast 6,000 PSI Interlocking Pavers & Retaining Blocks (@ $160/yd³):        $ 7,200,000 |
+| • Infrastructure Utilidor Sections & Municipal Trench Segments (@ $220/yd³):    $ 4,400,000 |
+| • Clean DOT Structural Sub-Base Aggregates (@ $35/ton):                         $ 1,500,000 |
+|                                                                                 ─────────── |
+| TOTAL ANNUAL MATERIALS REVENUE:                                                 $13,100,000 |
+|                                                                                             |
+| OPERATING EXPENSES:                                                                         |
+| • Alkali Activators (NaOH / Liquid Silicate bulk delivery):                     $ 3,200,000 |
+| • Labor, Batch Plant Energy, Formwork Maintenance, Logistics:                   $ 2,800,000 |
+|                                                                                 ─────────── |
+| TOTAL ANNUAL MATERIALS OPEX:                                                    $ 6,000,000 |
+|                                                                                             |
+| NET ANNUAL OPERATING PROFIT (EBITDA) - MATERIALS ONLY:                          $ 7,100,000 |
++─────────────────────────────────────────────────────────────────────────────────────────────+
+
+Even with zero mineral sales and zero data center integration, the Geocrete materials manufacturing plant operates with an independent gross margin exceeding 50%.
+
+3. The Operational “Relief Valve”: Mine Void Injection & AMD Abatement
+A major flaw of traditional manufacturing is that when construction seasons freeze or product markets fluctuate, inventory piles up and facilities must shut down. This design incorporates a permanent, zero-cost operational relief valve: direct underground mine void filling.
+
+       [ UNUSED PROCESSED ASH ] ──> Low-Alkali Activator Tank (Controlled Viscosity)
+                                                  │
+                                                  ▼
+                               [ HIGH-VOLUME SLURRY PUMP ]
+                                                  │
+                                                  ▼
+                       ┌──────────────────────────────────────────┐
+                       │     BOREHOLE COLLAR / PORTAL INJECTION   │
+                       └──────────────────┬───────────────────────┘
+                                          │ Gravity Drop
+                                          ▼
++─────────────────────────────────────────────────────────────────────────────────────────────+
+|                               ABANDONED MINE VOIDS (ROOM & PILLAR)                          |
+|                                                                                             |
+|      [Coal Pillar]        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~        [Coal Pillar]            |
+|     ┌─────────────┐       ~                               ~       ┌─────────────┐           |
+|     │             │       ~   SELF-LEVELING FLOW-FILL     ~       │             │           |
+|     │  DECAYING   │======>~   GEOPOLYMER GROUT            ~<======│  DECAYING   │           |
+|     │ COAL PILLAR │       ~   (1,500 PSI JACKET)          ~       │ COAL PILLAR │           |
+|     │             │       ~                               ~       │             │           |
+|     └─────────────┘       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       └─────────────┘           |
+|                                                                                             |
+|   1. STRUCTURAL: Jackets aging coal pillars to permanently prevent surface subsidence.      |
+|   2. CHEMICAL: Completely eliminates oxygen/water contact with pyrites, halting Acid       |
+|      Mine Drainage (AMD) at the source.                                                     |
++─────────────────────────────────────────────────────────────────────────────────────────────+
+
+3.1 Flowable Fill Chemistry & Rheology
+Formulation: Processed ash mixed with water and a low-concentration alkali activator solution (2–5% 𝑁𝑎𝑂𝐻2–%NaOH by weight).
+Rheology: Engineered as a high-slump, self-leveling non-segregating grout that flows thousands of feet through standard mine boreholes and underground workings under gravity feed.
+Cured Strength: Reaches 1,000 to 1,500 PSI 1,000 to 1,500PSI compressive strength in-situ—far exceeding standard civil structural fill specifications (100–300 PSI
+100–300PSI) while maintaining low batching costs.
+3.2 Permanent Environmental & Structural Reclamation
+Subsidence Prevention (Pillar Jacketing): Abandoned room-and-pillar mines suffer progressive spalling, pillar crushing, and roof collapse over decades. The flowable fill forms a solid structural jacket around deteriorating coal pillars and supports the roof rock, eliminating surface subsidence risks for surface landowners and civil infrastructure above.
+Permanent Halting of Acid Mine Drainage (AMD):
+AMD is created when pyrite (𝐹𝑒𝑆2FeS 2​ ) in legacy coal seams is exposed to both oxygen and water.
+Traditional treatment methods spend millions annually on continuous surface lime neutralization dosing after the acid water has already escaped.
+The Solution: The flow-fill completely fills the void from floor to ceiling, entombing the exposed coal surfaces. It cuts off all atmospheric oxygen ingress and blocks groundwater circulation, permanently extinguishing the chemical reaction that generates AMD.
+4. Upstream Interface to Downstream Infrastructure
+This specification connects to Volume 2 (The EPCS Architecture) through two standardized, high-value transfer streams:
+[ VOLUME 1: RESOURCE ENGINE ]                      [ VOLUME 2: DATA VAULT & COMPUTE ]
+• Vanadium Electrolyte Extraction  ═════════════>  • Bulk 40 MWh Energy Storage Tanks
+• Precast Geocrete Trenches        ═════════════>  • EMP-Shielded Earth-Coupled Utilidors
+• Flow-Fill Mine Abatement                         • 1-to-2 Cell Direct Die Cooling Stacks
+
+5. Strategic Summary & Deployment Pathway
+
+By publishing this specification under an open hardware framework, regional stakeholders gain a fully realized blueprint for regional re-industrialization:
+
+The Utility (e.g., AEP): Avoids multi-million-dollar capital landfill expansions, eliminates ongoing CCR liability, and frees up permitted acreage.
+The Mine Owner: Obtains free, permanent stabilization of legacy underground workings and eliminates long-term AMD water monitoring liabilities.
+The Local Economy: Establishes a commercial manufacturing engine producing high-margin 6,000 PSI Geocrete and domestic defense-critical minerals.
